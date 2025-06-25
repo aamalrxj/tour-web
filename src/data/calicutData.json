@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "name": "Kozhikode Beach",
+    "category": "Nature",
+    "rating": 4.5,
+    "description": "Popular beach for sunset views and street food.",
+    "image": "/images/kozhikode-beach.webp"
+  },
+  {
+  "id": 2,
+  "name": "Paragon Restaurant",
+  "category": "Food",
+  "rating": 4.7,
+  "description": "Famous for biryani and Malabar cuisine.",
+  "image": "/images/Paragon-restaurant2.jpg"
+ },
+  {
+    "id": 3,
+    "name": "SM Street",
+    "category": "Heritage",
+    "rating": 4.2,
+    "description": "Historic shopping street for sweets and textiles.",
+    "image": "/images/sm-street.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Hotel Rahmath",
+    "category": "Food",
+    "rating": 4.3,
+    "description": "Popular for beef biryani and milk sarbath. Beloved for its Kozhikode‑style biryani and cozy ambiance.",
+    "image": "/images/hotel.jpg",
+    "location": "Kayees Rahmathulla Hotel (adjacent to Paragon)"
+  },
+  {
+    "id": 9,
+    "name": "Mishkal Mosque (Mithqal Palli)",
+    "category": "Heritage",
+    "rating": 4.6,
+    "description": "Built in the 14th century by a wealthy Arab trader, this medieval mosque is a prime example of Kerala-Islamic architecture with four tiers, 47 doors, 24 wooden pillars, and a large prayer hall.",
+    "image": "/images/mm.jpg",
+    "location": "Kuttichira, near Calicut Beach"
+  },
+  {
+    "id": 11,
+    "name": "Tali Shiva Temple (Tali Mahakshetram)",
+    "category": "Heritage",
+    "rating": 4.7,
+    "description": "Ancient Shiva temple built in the 14th century by the Zamorins. Features chariot-shaped sanctum, murals, granite sculptures, and hosts the annual Revathi Pattathanam festival.",
+    "image": "/images/tt.jpg",
+    "location": "Palayam–Mananchira area"
+  },
+  {
+    "id": 12,
+    "name": "Mananchira Square & Tank",
+    "category": "Nature",
+    "rating": 4.4,
+    "description": "A 14th‑century freshwater tank and landscaped public park, originally built by Zamorin Mana Vikrama. The nearby Town Hall (1891) blends colonial and Kerala styles.",
+    "image": "/images/ms.jpg",
+    "location": "Central Kozhikode"
+  },
+  {
+    "id": 13,
+    "name": "Pazhassi Raja Archaeological Museum & Art Gallery",
+    "category": "Heritage",
+    "rating": 4.3,
+    "description": "Located in the East Hill Bungalow (built 1812), this museum preserves artefacts from 1000 BC to 200 AD, including megaliths, coins, bronzes, and works by Raja Ravi Varma.",
+    "image": "/images/pr.jpg",
+    "location": "East Hill"
+  },
+  {
+    "id": 14,
+    "name": "Kappad Beach (Kappakadavu)",
+    "category": "Nature",
+    "rating": 4.4,
+    "description": "Historic site where Vasco da Gama landed in 1498. A stone memorial marks this event, making it a key gateway to the Malabar coast.",
+    "image": "/images/kp.webp",
+    "location": "~16 km north of Kozhikode city"
+  },
+  {
+    "id": 16,
+    "name": "Focus Mall",
+    "category": "Malls",
+    "rating": 4.2,
+    "description": "First shopping mall in Kozhikode. Offers branded stores, a food court, and PVR cinemas.",
+    "image": "/images/fm.jpg",
+    "location": "Rajaji Road, Kozhikode"
+  },
+  {
+    "id": 17,
+    "name": "HiLITE Mall",
+    "category": "Malls",
+    "rating": 4.5,
+    "description": "Largest mall in Calicut with top fashion brands, restaurants, Hypermarket, INOX, and indoor entertainment.",
+    "image": "/images/hm.jpg",
+    "location": "Thondayad Bypass, Near Cyberpark"
+  },
+  {
+    "id": 18,
+    "name": "RP Mall",
+    "category": "Malls",
+    "rating": 4.0,
+    "description": "Medium-sized mall with retail stores, restaurants, and Cinepolis multiplex.",
+    "image": "/images/rp.jpg",
+    "location": "Mavoor Road, Kozhikode"
+  },
+  {
+      "id": 6,
+      "name": "Gazania Mezban Restaurant",
+      "category": "Food",
+      "rating": 4.4,
+      "description": "Authentic Malabar dishes with a fusion twist. Highly praised in local blogs alongside Paragon & Rahmath.",
+      "image": "/images/gm.avif",
+      "location": "Mavoor Rd / MG Rd — search 'Gazania Mezban Kozhikode' on Maps"
+    }
+]
