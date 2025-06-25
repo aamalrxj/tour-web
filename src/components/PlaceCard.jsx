@@ -1,7 +1,11 @@
 export default function PlaceCard({ place }) {
   return (
     <div className="bg-white rounded-xl shadow-md overflow-hidden">
-      <img src={place.image} alt={place.name} className="w-full h-48 object-cover" />
+      <img
+        src={`${import.meta.env.BASE_URL}${place.image.replace(/^\//, '')}`}
+        alt={place.name}
+        className="w-full h-48 object-cover"
+      />
       <div className="p-4">
         <h2 className="font-semibold text-lg">{place.name}</h2>
         <p className="text-sm text-gray-600">Category: {place.category}</p>
